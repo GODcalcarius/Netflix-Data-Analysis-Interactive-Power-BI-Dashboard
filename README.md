@@ -8,6 +8,9 @@ The dataset was cleaned and transformed using **Python (Pandas & NumPy)** and vi
 The project demonstrates real-world **data analyst skills**, including data cleaning, exploratory analysis, KPI creation, and business-focused data storytelling.
 
 ---
+## 📊 Dashboard Preview
+
+![Netflix Power BI Dashboard](assets/netflix_dashboard.png)
 
 ## 🛠️ Tech Stack
 - **Python**: Pandas, NumPy  
