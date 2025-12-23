@@ -10,7 +10,7 @@ The project demonstrates real-world **data analyst skills**, including data clea
 ---
 ## 📊 Dashboard Preview
 
-![Netflix Power BI Dashboard](Dashboard_img)
+![Netflix Power BI Dashboard](Screenshot 2025-12-23 153154.png)
 
 ## 🛠️ Tech Stack
 - **Python**: Pandas, NumPy  
