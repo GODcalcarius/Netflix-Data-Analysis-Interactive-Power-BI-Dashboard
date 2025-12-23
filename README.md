@@ -93,3 +93,37 @@ This dashboard helps stakeholders:
 ---
 
 ## 📁 Project Structure
+ ┣ 📄 README.md
+ ┣ 📄 netflix_titles.csv
+ ┣ 📄 cleaned_data.xlsx
+ ┣ 📄 netflix_dashboard.pbix
+ ┣ 📄 data_cleaning.ipynb
+
+
+---
+
+## 🧠 Skills Demonstrated
+- Data Cleaning & Wrangling  
+- Exploratory Data Analysis (EDA)  
+- DAX Measures & KPIs  
+- Dashboard Design & Visual Storytelling  
+- Business Insight Generation  
+
+---
+
+## ✨ Why This Project Stands Out
+✔ End-to-end analytics workflow  
+✔ Real-world dataset  
+✔ Clean and interactive dashboard  
+✔ Business-focused insights  
+✔ Recruiter & ATS friendly  
+
+---
+
+## 👤 Author
+**Salman Majeed**  
+Data Analyst | Python | SQL | Power BI  
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
